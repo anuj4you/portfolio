@@ -2258,7 +2258,7 @@ body.is-preload #wrapper {
 
   #main > .panel.intro header {
     height: 25em;
-    padding: 2.75em 2em 2.5em 2em;
+    padding: 0em 2em 2.5em 2em;
   }
 
   #main > .panel.intro header p {
